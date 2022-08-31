@@ -15,8 +15,6 @@ defendValues = [2, 2, 4, 1, 2, 1, 4, 3, 1]
 isFirstRound = True
 MIN_PROB = .00000001
 
-#Credit programming-idioms.org
-
 def getInput():
     print("Enter the attacker's information")
 
